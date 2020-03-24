@@ -1,0 +1,1 @@
+To run the code, simply open hw5.m and run it, it will take around 20s.
